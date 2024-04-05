@@ -1,8 +1,0 @@
-conf_thres: 0.5
-iou_thres: 0.5
-names:
-- Fire
-nc: 1
-test: /content/drive/MyDrive/Fire_detec/data_yolo/Fire_data/images/test
-train: /content/drive/MyDrive/Fire_detec/data_yolo/Fire_data/images/train
-val: /content/drive/MyDrive/Fire_detec/data_yolo/Fire_data/images/valid
